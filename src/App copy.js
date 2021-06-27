@@ -17,6 +17,9 @@ function App() {
 
               <MDBRow className= "text-left">
                 <RichTextEditor />
+                  <p className="text-justify">It is a long establish fact that a reader will be distracted by the readable content of a page when looking at its layout. 
+                  It is a long establish fact that a reader will be distracted by the readable content of a page when looking at its layout. 
+                  It is a long establish fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                   <br></br>
                   <br></br>
               </MDBRow>            
