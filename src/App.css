@@ -1,5 +1,5 @@
 .App {
-  background-color: aliceblue;
+  background-color: white;
   text-align: center;
   margin-top: 20%;
   width: 90%;
@@ -23,7 +23,7 @@
 }
 
 .App-header {
-  background-color: rgb(206, 236, 247);
+  background-color: rgb(212, 240, 250);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
