@@ -1,5 +1,14 @@
 .App {
+  background-color: aliceblue;
   text-align: center;
+  margin-top: 25%;
+  width: 90%;
+  min-height: 60vh;
+  color: black;
+  font-size: 80%;
+  border-radius: 20px;
+  align-items: center;
+  justify-content: center;
 }
 
 .App-logo {
@@ -14,12 +23,11 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: rgb(206, 236, 247);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  
   font-size: calc(10px + 2vmin);
   color: white;
 }
@@ -35,4 +43,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.text-left {
+  justify-content: left;
+  text-align: left;
+  font-size: 70%;
+}
+
+.innerTxt {
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.invi {
+  color: aliceblue;
 }
